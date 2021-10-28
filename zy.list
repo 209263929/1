@@ -1,13 +1,10 @@
 host-suffix, umeng.com, 去广告
 host-suffix, umengcloud.com, 去广告
-#pornhub ad
 host, evtubescms.phncdn.com, 去广告
-#sehuatang
 host-suffix, sehuatang.org, proxy
 host, jj-rss-01.best, proxy
 host, api.twitter.com, twitter
 host, www.zhenbuka3.com, direct
-#小妲己
 host, pullws.paycdk.com, proxy
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
