@@ -9,3 +9,4 @@ host, pullws.paycdk.com, proxy
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
 host, video.xxxjmp.com, 去广告
+host-suffix, speedtest.net, proxy
