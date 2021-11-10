@@ -10,3 +10,6 @@ host, pullws.paycdk.com, proxy
 host, ocsp.apple.com, reject
 host, video.xxxjmp.com, 去广告
 host-suffix, speedtest.net, proxy
+host-suffix, hitik.net, proxy
+host-suffix, tiansexyl.tv, proxy
+host-suffix, 91tv.tv, proxy
