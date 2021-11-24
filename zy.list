@@ -16,3 +16,6 @@ host-suffix, 91tv.tv, proxy
 host, hub5idx.v6.shub.sandai.net,reject
 host, hub5emu.v6.shub.sandai.net,reject
 host, hub5btmain.v6.shub.sandai.net,reject
+host-suffix, ackcdn.net, 去广告
+host-suffix, vs.diemiu.com, reject
+
