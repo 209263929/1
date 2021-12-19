@@ -8,7 +8,6 @@ host, www.zhenbuka3.com, direct
 host, pullws.paycdk.com, proxy
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
-#host, video.xxxjmp.com, 去广告
 host-suffix, speedtest.net, proxy
 host-suffix, hitik.net, proxy
 host-suffix, tiansexyl.tv, proxy
@@ -16,6 +15,5 @@ host-suffix, 91tv.tv, proxy
 host, hub5idx.v6.shub.sandai.net,reject
 host, hub5emu.v6.shub.sandai.net,reject
 host, hub5btmain.v6.shub.sandai.net,reject
-#host-suffix, ackcdn.net, 去广告
 host-suffix, vs.diemiu.com, reject
 
