@@ -1,22 +1,9 @@
 host-suffix, umeng.com, 去广告
 host-suffix, umengcloud.com, 去广告
 host, evtubescms.phncdn.com, 去广告
-host-suffix, sehuatang.org, proxy
-host, jj-rss-01.best, proxy
-host, api.twitter.com, twitter
-host, www.zhenbuka3.com, direct
-host, pullws.paycdk.com, proxy
 # 绕过企业证书过期
 host, ocsp.apple.com, reject
-host-suffix, speedtest.net, proxy
-host-suffix, hitik.net, proxy
-host-suffix, tiansexyl.tv, proxy
-host-suffix, 91tv.tv, proxy
 host, hub5idx.v6.shub.sandai.net,reject
 host, hub5emu.v6.shub.sandai.net,reject
 host, hub5btmain.v6.shub.sandai.net,reject
 host-suffix, vs.diemiu.com, reject
-host-suffix, pdsklj.cn, 全球加速
-host-suffix, xdccd.com, 全球加速
-host-suffix, tqpqq.com, 全球加速
-host-suffix, d3yuiw4.com, reject
