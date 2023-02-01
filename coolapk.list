@@ -1,3 +1,3 @@
 # NAME: 酷安
 HOST-SUFFIX,coolapk.com,kuan
-user-agent,CoolMarket,kuan
+user-agent,CoolMarket*,kuan
