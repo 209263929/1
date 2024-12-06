@@ -1,0 +1,9 @@
+host-suffix, flipchina.cn, hongbb
+host-suffix, flipboard.cn, hongbb
+host-suffix, res.wx.qq.com, hongbb
+host-suffix, mp.weixin.qq.com, hongbb
+host-suffix, mmbiz.qpic.cn, hongbb
+user-agent, Flipboard, hongbb
+user-agent, *Flipboard, hongbb
+user-agent, Flipboard*, hongbb
+user-agent, *Flipboard*, hongbb
